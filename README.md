@@ -52,12 +52,15 @@ The report was reorganized to provide a cleaner and more intuitive experience wh
 ![Home Page](assets/home-page.png)
 
 ---
-
 ## 📊 Sales Report
 
-![Sales Report](assets/sales-report.png)
+![Sales Report](assets/report-sales.png)
 
-![Profit Report](assets/profit-report.png)
+---
+
+## 📈 Profit Report
+
+![Profit Report](assets/report-profit.png)
 ---
 
 # ✨ Features
