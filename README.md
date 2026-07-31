@@ -57,12 +57,7 @@ The report was reorganized to provide a cleaner and more intuitive experience wh
 
 ![Sales Report](assets/sales-report.png)
 
----
-
-## 📈 Profit Report
-
 ![Profit Report](assets/profit-report.png)
-
 ---
 
 # ✨ Features
